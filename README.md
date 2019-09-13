@@ -18,5 +18,5 @@ Prerequisites</br>
 * An IBM Cloud PaaS and IaaS API key. [Guide](https://cloud.ibm.com/docs/iam?topic=iam-userapikey).  </br>
 * Generate an SSH Key and upload to IBM Cloud portal.  [Guide](https://cloud.ibm.com/docs/infrastructure/ssh-keys?topic=ssh-keys-adding-an-ssh-key).   <br/><br/>
 
-Configuration
-See the repositories wiki for a  [Guide](https://github.com/gitcoldlight36/ansible-httpd/wiki/Httpd-Ansible-Wiki) on how to use this example code.
+Configuration<br/>
+See the repositories wiki for a [Guide](https://github.com/gitcoldlight36/ansible-httpd/wiki/Httpd-Ansible-Wiki) on how to use this example code.
