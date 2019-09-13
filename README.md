@@ -12,8 +12,8 @@ The code in this example will:</br>
 *	Copy an index.html file to the VSI from the local device</br></br>
 
 Prerequisites</br>
-*	In order to use this example code, you will need an upgraded IBM Cloud account. Don’t have an IBM Cloud account yet?  Sign up here.</br>
-*	Terraform and the IBM Terraform provider plugin installed. Guide.</br>
-*	Ansible installed. Guide.</br>
-*	An IBM Cloud PaaS and IaaS API key. Guide.</br>
-*	Generate an SSH Key and upload to IBM Cloud portal.  Guide. </br></br>
+* In order to use this example code, you will need an upgraded IBM Cloud account. Don’t have an IBM Cloud account yet?  [Sign  Up Here](https://cloud.ibm.com/registration)  </br> </br>
+* Terraform and the IBM Terraform provider plugin installed. [Guide](https://cloud.ibm.com/docs/terraform?topic=terraform-getting-started#install).  </br>
+* Ansible installed. [Guide](https://cloud.ibm.com/docs/terraform?topic=terraform-getting-started#install).  </br>
+* An IBM Cloud PaaS and IaaS API key. [Guide](https://cloud.ibm.com/docs/iam?topic=iam-userapikey).  </br>
+* Generate an SSH Key and upload to IBM Cloud portal.  [Guide](https://cloud.ibm.com/docs/infrastructure/ssh-keys?topic=ssh-keys-adding-an-ssh-key).   <br/><br/>
