@@ -1,5 +1,5 @@
 #  IBM Cloud VSI with Httpd Install and Started</br></br>
-Example of how to deploy a VSI that will have httpd installed and running on IBM Cloud. This allows for greater automation for customers that need services installed on devices after provisioning and centralized files uploaded. </br></br>
+Example of how to deploy a VSI that will have httpd installed and running (courtesy of ansible) on IBM Cloud. This allows for greater automation for customers that need services installed on devices after provisioning and centralized files uploaded. </br></br>
 
 ### The code in this example will:</br>
 *	Create a Premium Vlan</br>
