@@ -1,2 +1,0 @@
-[httpd-serv]
-${vmHostname}  ansible_host=${myip} 
