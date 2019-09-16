@@ -1,3 +1,0 @@
-[httpd-serv]
-ibmcloud.test0  ansible_host=169.61.178.120 ansible_user=root
-
